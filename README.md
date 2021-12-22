@@ -1,4 +1,4 @@
-# Challenge-Resposive-Web-Design-in-300hr
+# Challenge-Resposive-Web-Design
 Things that you must learn about it to run on road front-end world.
 
 ### In this Responsive Web Design challenge, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
