@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:400, 700wght@100&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header {
+    align-items: center;
+    position: fixed;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    top: 0;
+    min-height: 80px;
+}
+
+.container {
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media(max-width: 600px) {
+    header {
+        /*hiển thị 1 dòng thành nhiều dòng khi chiều rộng giảm*/
+        flex-wrap: wrap;
+    }
+}
+
+.logo {
+    width: 60vw;
+}
+
+@media(max-width: 650px) {
+    .logo {
+        margin-top: 20px;
+        width: 100%;
+        position: relative;
+    }
+}
+
+.logo img {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 10%;
+    margin-left: 30px;
+}
+
+@media (max-width: 650px) {
+    .logo>img {
+        margin: 0 auto;
+    }
+}
+
+nav {
+    font-weight: bold;
+}
+
+@media(max-width: 650px) {
+    nav {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        display: flex;
+        width: 100%;
+    }
+    nav li {
+        padding-bottom: 5px;
+    }
+}
+
+nav ul {
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+@media(max-width: 650px) {
+    nav li {
+        flex-direction: column;
+    }
+}
+
+body {
+    font-family: Lato, sans-serif;
+    background: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.intro {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.intro input[type="email"] {
+    margin-top: 10px;
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+}
+
+.intro input[type="submit"] {
+    background: rgb(255, 203, 31);
+    border: 1px solid rgb(255, 203, 31);
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0px 50px;
+    padding: 5px;
+}
+
+button {
+    background: rgb(255, 203, 31);
+    border: 1px solid rgb(255, 203, 31);
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 10px;
+}
+
+.intro h3 {
+    text-align: center;
+}
+
+.grid-parent {
+    display: grid;
+    grid-template-rows: 100px 100px 100px;
+    margin: 20px 0px 20px 40px;
+    padding: 15px;
+}
+
+.grid-child {
+    display: grid;
+    grid-template-columns: 20% 60%;
+}
+
+.grid-baby {
+    text-align: left;
+}
+
+.table {
+    grid-template-columns: 25% 25% 25%;
+    display: grid;
+    grid-column-gap: 20px;
+    margin: 30px 0 50px 15%;
+}
+
+#cell {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#cell div {
+    background: rgb(201, 201, 201);
+    margin: 0px;
+    padding: 5px;
+}
+
+footer {
+    background: #dadada;
+    margin: 0px 10%;
+    text-align: right;
+    padding: 15px;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
