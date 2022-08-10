@@ -109,7 +109,7 @@ body {
     border: 1px solid rgb(255, 203, 31);
     font-size: 16px;
     font-weight: bold;
-    margin: 10px 0px 50px 0px;
+    margin: 10px 0px 50px;
     padding: 5px;
 }
 
@@ -117,7 +117,7 @@ button {
     background: rgb(255, 203, 31);
     border: 1px solid rgb(255, 203, 31);
     font-size: 20px;
-    padding: 5px 10px 5px 10px;
+    padding: 5px 10px;
     margin: 10px;
 }
 
@@ -159,14 +159,13 @@ button {
 
 #cell div {
     background: rgb(201, 201, 201);
-    padding: 7px;
     margin: 0px;
     padding: 5px;
 }
 
 footer {
     background: #dadada;
-    margin: 0px 10% 0px 10%;
+    margin: 0px 10%;
     text-align: right;
     padding: 15px;
 }
