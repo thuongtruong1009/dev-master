@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", san-serif;
+  position: relative;
+}
+
+.navigation {
+  margin: 30px 10px 10px 10px;
+  background: #e0e0e0;
+}
+
+.intro {
+  text-align: center;
+  margin: 50px 0px 30px 0px;
+}
+
+.navigation h3 {
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+}
+
+.navigation img {
+  margin: 50px 0px 10px 0px;
+  left: 160px;
+  text-align: center;
+}
+
+.navigation figcaption {
+  text-align: center;
+}
+
+.navigation ul {
+  text-align: left;
+  left: 170px;
+  padding: 0px 0px 20px 0px;
+}
+
+.navigation ul li {
+  padding: 10px 0px 10px 0px;
+}
+
+.navigation quote {
+  text-align: left;
+  left: 100px;
+}
