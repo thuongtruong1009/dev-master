@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Survey form</title>
+</head>
+
+<body>
+    <h1>IT SURVEY FORM</h1>
+    <p><em>Thank you for taking the time to help us improve the platform</em></p>
+    <form class="form">
+        <div class="form-control">
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Enter your name">
+        </div>
+        <div class="form-control">
+            <label for="email">Email</label>
+            <input type="text" id="email" placeholder="Enter your email">
+        </div>
+        <div class="form-control">
+            <label for="age">Age <small>(option)</small></label>
+            <input type="text" id="age" placeholder="Age">
+        </div>
+        <div class="form-control">
+            <label for="role">Which option best describes your current role?</label>
+            <select type="text" id="role" placeholder="Select current role">
+                <option value="student">Student</option>
+                <option value="job">Full Time Job</option>
+                <option value="learner">Full Time Learner</option>
+                <option value="notsay">Prefer not to say</option>
+                <option value="other">Other...</option>
+            </select>
+        </div>
+        <div class="form-control">
+            <label>Would you recommend IT to a friend?</label>
+            <label for="recommed-1"><input type="radio" id="recommed-1"name="recommend">Definitely</input></label>
+            <label for="recommed-2"><input type="radio" id="recommed-2"name="recommend">Maybe</input></label>
+            <label for="recommed-3"><input type="radio" id="recommed-3"name="recommend">Not sure</input></label>
+        </div>
+        <div class="form-control">
+            <label>What is your favorite feature of IT</label>
+            <select type="text" id="favourite" placeholder="Select option">
+                <option value="challenges">Challenges</option>
+                <option value="projects">Projects</option>
+                <option value="community">Community</option>
+                <option value="openSource">Open source</option>
+            </select>
+        </div>
+        <div class="form-control">
+            <label>What would you like to see improved? (Check all that apply)</label>
+            <label for="font-end"><input type="checkbox" id="front-end" name=recommend>Front-end Projects</input></label>
+            <label for="back-end"><input type="checkbox" id="back-end" name=recommend>Back-end Projects</input></label>
+            <label for="data-visual"><input type="checkbox" id="data-visual" name=recommend>Data Visualization</input></label>
+            <label for="challenges"><input type="checkbox" id="challenges" name=recommend>Challenges</input></label>
+            <label for="openSourceCommunity"><input type="checkbox" id="openSourceCommunity" name=recommend>Open Source Community</input></label>
+            <label for="gitterHelpRooms"><input type="checkbox" id="gitterHelpRooms" name=recommend>Gitter help rooms</input></label>
+            <label for="videos"><input type="checkbox" id="videos" name=recommend>Videos</input></label>
+            <label for="cityMeetups"><input type="checkbox" id="cityMeetups" name=recommend>City Meetups</input></label>
+            <label for="wiki"><input type="checkbox" id="wiki" name=recommend>Wiki</input></label>
+            <label for="forum"><input type="checkbox" id="forum" name=recommend>Forum</input></label>
+            <label for="additionalCourses"><input type="checkbox" id="additionalCourses" name=recommend>Additional Courses</input></label>
+        </div>
+        <div class="form-control">
+            <label for="comment">Any comments or suggestions?</label>
+            <textarea id="comment" name="comment" placeholder="Enter your comment here..."></textarea>
+        </div>
+        <button type="submit" value="submit">Submit</button>
+    </form>
+</body>
+
+</html>
