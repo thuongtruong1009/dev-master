@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    min-width: 300px;
+}
+
+.nav-bar {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    position: fixed;
+    border-right: solid;
+}
+
+.header {
+    margin: 10px 10px 10px 20px;
+    font-size: 30px;
+    position: fixed;
+    text-align: center;
+}
+
+.nav-bar ul {
+    margin: 60px 0px 0px;
+    padding: 0px;
+    width: 280px;
+    height: 88%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.nav-bar li {
+    margin: 0px;
+    padding: 10px 0px 10px 20px;
+    border: 0.5px solid rgb(63, 63, 63);
+    position: relative;
+    list-style: none;
+    width: 100%;
+}
+
+.nav-bar a {
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.content {
+    margin-left: 300px;
+    padding: 20px;
+    position: absolute;
+}
+
+.content section h2 {
+    margin: 0px;
+}
+
+.content section p {
+    margin: 0px;
+    padding: 0px 0px 5px 5px;
+}
+
+.content section ul {
+    margin: 0px;
+    padding: 0px 0px 5px 35px;
+}
+
+.content section div {
+    margin-left: 30px;
+    padding: 5px 0px 10px 10px;
+    background: rgb(238, 238, 238);
+    width: 80%;
+}
+
+.content section div code {
+    font-size: 12px;
+}
