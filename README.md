@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Frontend master</h1>
+    <h1>💎 FRONTEND MASTER</h1>
     <em>Development frontend skills by your thinking</em><br/><br/>
     <a href="https://dev.to/thuongtruong1009">
         <img src="https://img.shields.io/twitter/url?color=449DE0&label=Dev.to&logo=dev.to&logoColor=449DE0&style=for-the-badge&url=https%3A%2F%2Fdev.to%2Fthuongtruong1009" />
@@ -17,6 +17,12 @@
 
 <br/>
 
+## 🚩 [Roadmap](https://roadmap.sh)
+
+![Frontend roadmap](./Road%20map/frontend_roadmap_2022.png)
+
+## 📚 Table of contents
+
 ### **Responsive Web Design**
 
 > * ##### In this Responsive Web Design challenge, you'll learn the languages that developers use to build webpages: HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
@@ -32,6 +38,7 @@
 | --- | --- |
 | &bull; Visual design is a combination of typography, color theory, graphics, animation, page layout, and more to help deliver your unique message. | &bull; In web development, accessibility refers to web content and a UI (user interface) that can be understood, navigated, and interacted with by a broad audience. This includes people with visual, auditory, mobility, or cognitive disabilities. |
 | &bull; In this course, you'll learn how to apply these different elements of visual design to your webpages. | &bull; In this course, you'll learn best practices for building webpages that are accessible to everyone. |
+
 | [**Responsive Web Design Principles**](/Responsive%20Web%20Design%20Principles/) | [**CSS Flexbox**](/CSS%20Flexbox/) |
 | --- | --- |
 | &bull; There are many devices that can access the web, and they come in all shapes and sizes. Responsive web design is the practice of designing flexible websites that can respond to different screen sizes, orientations, and resolutions. | &bull; Flexbox is a powerful, well-supported layout method that was introduced with the latest version of CSS, CSS3. With flexbox, it's easy to center elements on the page and create dynamic user interfaces that shrink and expand automatically. |
@@ -78,11 +85,7 @@
 | &bull; Now that you know the basics of algorithmic thinking, along with OOP and Functional Programming, test your skills with the Intermediate Algorithm Scripting challenges. | &bull; This is it — time to put your new JavaScript skills to work. These projects are similar to the algorithm scripting challenges you've done before – just much more difficult. |
 
 ---
-## Support
-
-Teneno is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/sponsors/thuongtruong1009).
-
-## Stay in touch
+## 🔔 Stay in touch
 
 -   Get idea inspiration: [bee-music](https://dribbble.com/shots/16618273-Bee-Music-Music-Media-Player-Dashboard?fbclid=IwAR35hkSSs2dB2Ek66GAX-yPDfx3JYxxJgeQdwweuEiEtne02IUYk13kxDnk)
 -   Trading and shopping your style with [e-shopee](https://github.com/thuongtruong1009/e-shopee)
@@ -96,9 +99,12 @@ Teneno is an MIT-licensed open source project. It can grow thanks to the sponsor
 -   Make flip card game at [flip-card](https://github.com/thuongtruong1009/flip-cards)
 -   Learn computer architecture at [computer-architecture](https://github.com/thuongtruong1009/computer-architecture)
 
-## ❤️ [Support me](https://www.paypal.me/thuongtruong1009)
+## 🤝 [Support](https://www.paypal.me/thuongtruong1009)
 
 > We are looking for sponsors to join us to have better community reach and impact.
+
+> Teneno is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://github.com/sponsors/thuongtruong1009).
+
 
 [![MOMO](https://img.shields.io/badge/-MOMO-red?style=flat&labelColor=RED&logo=MOMO&logoColor=black)](https://nhantien.momo.vn/0917085937)
 <a href="https://www.paypal.me/thuongtruong1009">
@@ -111,4 +117,4 @@ Teneno is an MIT-licensed open source project. It can grow thanks to the sponsor
 ## 📰 [License](LICENSE)
 
 -   ##### This project is distributed under the [MIT License](LICENSE).
--   ##### Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2022.
+-   ##### Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2022-PRESENT.
