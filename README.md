@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-    <h1>💎 FRONTEND MASTER</h1>
+    <h1>💎 Frontend master x Hacktoberfest 2022</h1>
     <em>Development frontend skills by your thinking</em><br/><br/>
 </div>
 
@@ -53,6 +53,20 @@ The Frontend-master is an exhaustive list of all elements you need to have / to 
 All items in the **Frontend-master** are based on Front-End developers' years of experience, with the additions coming from some other open-source checklists.
 
 > You can contribute to the ***Frontend master*** reading the [CONTRIBUTING.md](https://github.com/thuongtruong1009/frontend-master/blob/main/CONTRIBUTING.md) which explains everything about the project.
+
+---
+
+## 🌎 [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)
+
+* Hacktoberfest is Digital's  annual event that encourages participation in the open source community. It is open to everyone in our global community. Whether you are a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+
+* What's new in 2022: encourage contributions that require some technical experience or none at all. No matter your experience, you can participate in hacktoberfest!
+
+* You can sign up anytime between October 1 and October 31.
+
+* Rules: To get a shirt, you must make four pull requests (PRs) between October 1-31 in any time zone. This year, the first 50,000 participants who successfully complete the challenge will be eligible to receive a prize.
+
+* [-> Hacktoberfest 2022 homepage](https://hacktoberfest.com)
 
 ---
 
@@ -323,7 +337,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 📖 [Getting started with cards — Twitter Developers](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 > * 🛠 Test your page with the [Twitter card validator](https://cards-dev.twitter.com/validator)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -364,7 +378,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 📖 [Use AdBlocking in your Dev Environment](https://andreicioara.com/use-adblocking-in-your-dev-environment-48db500d9b86)
 
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -386,7 +400,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 > * 🛠 [Typekit Web Font Loader](https://github.com/typekit/webfontloader)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -467,7 +481,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 📖 [Building RTL-Aware Web Apps & Websites: Part 1 - Mozilla Hacks](https://hacks.mozilla.org/2015/09/building-rtl-aware-web-apps-and-websites-part-1/)
 > * 📖 [Building RTL-Aware Web Apps & Websites: Part 2 - Mozilla Hacks](https://hacks.mozilla.org/2015/10/building-rtl-aware-web-apps-websites-part-2/)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -503,7 +517,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 * [ ] **Lazy loading:** Images are lazyloaded (A noscript fallback is always provided).
 > * 🛠 [Native lazy loading polyfill](https://github.com/mfranzke/loading-attribute-polyfill/)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -548,7 +562,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 > * 📖 [ESLint - The pluggable linting utility for JavaScript and JSX](https://eslint.org/)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -598,7 +612,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 📖 [CSP Cheat Sheet - OWASP](https://cheatsheetseries.owasp.org/cheatsheets/Content_Security_Policy_Cheat_Sheet.html)
 > * 📖 [Content Security Policy Reference](https://content-security-policy.com/)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -669,7 +683,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 > * 🛠 [GTmetrix - Website speed and performance optimization](https://gtmetrix.com/)
 > * 🛠 [Speedrank - Improve the performance of your website](https://speedrank.app/)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -718,7 +732,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 > * 📹 [Managing Focus - A11ycasts #22](https://www.youtube.com/watch?v=srLRSQg6Jgg&index=5&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
@@ -758,7 +772,7 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 > * 📖 [Sitemap guidelines - Google Support](https://support.google.com/webmasters/answer/183668?hl=en)
 
-**[⬆ back to top](#Introduction)**
+**[⬆ back to top](#-Introduction)**
 
 ---
 
