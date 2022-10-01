@@ -1,52 +1,40 @@
-<a href="https://dev.to/thuongtruong1009">
-    <img src="https://img.shields.io/twitter/url?color=449DE0&label=Dev.to&logo=dev.to&logoColor=449DE0&style=for-the-badge&url=https%3A%2F%2Fdev.to%2Fthuongtruong1009" />
-</a>
-<a href="https://github.com/thuongtruong1009">
-    <img src="https://img.shields.io/twitter/url?color=green&label=Github&logo=github&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fthuongtruong1009" />
-</a>
-<a href="mailto:ititiu19228@student.hcmiu.edu.vn">
-    <img src="https://img.shields.io/twitter/url?color=red&label=Email&logo=gmail&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fdev.to%2Fthuongtruong1009" />
-</a>
-<a href="https://linkedin.com/in/thuongtruong1009">
-    <img src="https://img.shields.io/twitter/url?color=0A66C2&label=Linkedin&logo=linkedin&logoColor=0A66C2&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fthuongtruong1009" />
-</a>
-
-<br/>
-
 <div align="center">
-    <h1>💎 Frontend master x Hacktoberfest 2022</h1>
+    <h1>Frontend master 💎 Hacktoberfest 2022</h1>
     <em>Development frontend skills by your thinking</em><br/><br/>
 </div>
 
-
 <p align="center">
-  <a href="https://github.com/thuongtruong1009/frontend-master/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome">
+  <a href="https://github.com/thuongtruong1009/frontend-master/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/thuongtruong1009/frontend-master/graphs/contributors"><img src="https://img.shields.io/github/contributors/thuongtruong1009/frontend-master.svg?style=flat-square" alt="Contributors"></a>
+  <a href="https://github.com/thuongtruong1009/frontend-master/commits/main"><img src="https://img.shields.io/github/languages/count/thuongtruong1009/frontend-master" alt="Language count"></a>
+  <a href="https://github.com/thuongtruong1009/frontend-master/commits/main"><img src="https://img.shields.io/github/last-commit/thuongtruong1009/frontend-master.svg?style=flat-square" alt="Last Commit">
   </a>
-  <a href="https://github.com/thuongtruong1009/frontend-master/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/thuongtruong1009/frontend-master.svg?style=flat-square" alt="Contributors">
-  </a>
-  <a href="https://github.com/thuongtruong1009/frontend-master/commits/main">
-    <img src="https://img.shields.io/github/languages/count/thuongtruong1009/frontend-master" alt="Language count">
-  </a>
-  <a href="https://github.com/thuongtruong1009/frontend-master/commits/main">
-    <img src="https://img.shields.io/github/last-commit/thuongtruong1009/frontend-master.svg?style=flat-square" alt="Last Commit">
-  </a>
-  <a href="https://github.com/thuongtruong1009/frontend-master/">
-    <img src="https://img.shields.io/badge/frontend master-followed-brightgreen.svg?style=flat-square" alt="Frontend-master followed">
-  </a>
-  <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img src="https://img.shields.io/badge/license-ECL%202.0-green.svg?style=flat-square" alt="ECL-2.0">
-  </a>
+  <a href="https://github.com/thuongtruong1009/frontend-master/"><img src="https://img.shields.io/badge/frontend master-followed-brightgreen.svg?style=flat-square" alt="Frontend-master followed"></a>
+  <a href="https://www.apache.org/licenses/LICENSE-2.0"><img src="https://img.shields.io/badge/license-ECL%202.0-green.svg?style=flat-square" alt="ECL-2.0"></a>
 </p>
 
 <p align="center">
-  <a href="#Introduction">🎮 Introduction</a> • <a href="#contributing">Contributing</a> • <a href="#Support">Support</a> • <a href="#license">License</a>
+  <a href="https://dev.to/thuongtruong1009">
+    <img src="https://img.shields.io/twitter/url?color=449DE0&label=Dev.to&logo=dev.to&logoColor=449DE0&style=for-the-badge&url=https%3A%2F%2Fdev.to%2Fthuongtruong1009" />
+  </a>
+  <a href="https://github.com/thuongtruong1009">
+      <img src="https://img.shields.io/twitter/url?color=green&label=Github&logo=github&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2Fthuongtruong1009" />
+  </a>
+  <a href="mailto:ititiu19228@student.hcmiu.edu.vn">
+      <img src="https://img.shields.io/twitter/url?color=red&label=Email&logo=gmail&logoColor=red&style=for-the-badge&url=https%3A%2F%2Fdev.to%2Fthuongtruong1009" />
+  </a>
+  <a href="https://linkedin.com/in/thuongtruong1009">
+      <img src="https://img.shields.io/twitter/url?color=0A66C2&label=Linkedin&logo=linkedin&logoColor=0A66C2&style=for-the-badge&url=https%3A%2F%2Flinkedin.com%2Fin%2Fthuongtruong1009" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-Introduction">🎮 Introduction</a> • <a href="#-Roadmap">🗺 Roadmap</a> • <a href="#-Contributing">⛏ Contributing</a> • <a href="#-Support">🤝 Support</a> • <a href="#-License">📑 License</a>
 </p>
 
 ---
 
-## 📖 Introduction
+## 📖 **[INTRODUCTION](#-Introduction)**
 
 The Frontend-master is an exhaustive list of all elements you need to have / to test before launching your website to production.
 
@@ -56,25 +44,34 @@ All items in the **Frontend-master** are based on Front-End developers' years of
 
 ---
 
-## 🌎 [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/)
+## 🌎 **[HACKTOBERFEST 2022](https://hacktoberfest.digitalocean.com/)**
 
-* Hacktoberfest is Digital's  annual event that encourages participation in the open source community. It is open to everyone in our global community. Whether you are a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
-* What's new in 2022: encourage contributions that require some technical experience or none at all. No matter your experience, you can participate in hacktoberfest!
+* ***Hacktoberfest*** is Digital's annual event that encourages participation in the open source community. It is open to everyone in our global community. Whether you are a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
-* You can sign up anytime between October 1 and October 31.
+* ***What's new in 2022***: encourage contributions that require some technical experience or none at all. No matter your experience, you can participate in hacktoberfest!
 
-* Rules: To get a shirt, you must make four pull requests (PRs) between October 1-31 in any time zone. This year, the first 50,000 participants who successfully complete the challenge will be eligible to receive a prize.
+![Hacktoberfest 2022](/public/hacktoberfest.png)
 
-* [-> Hacktoberfest 2022 homepage](https://hacktoberfest.com)
+* ***Rules***:
+  * Pull requests can be made in any GitHub-hosted repositories/projects.
+  * You can sign up anytime and must make four pull requests (PRs) between October 1 and October 31 in any time zone.
+  * PRs can be made to any public repo on GitHub, not only the ones highlighted.
+  * If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
+
+* ***Reward***: To get a shirt, you must make four pull requests (PRs) between October 1-31 in any time zone. This year, the first 50,000 participants who successfully complete the challenge will be eligible to receive a prize.
+
+[--> Hacktoberfest 2022 homepage](https://hacktoberfest.com)
+
+[--> My rewarded badge](https://www.holopin.io/userbadge/cl8p6bihd026909mbtaci9mzq)
 
 ---
 
-## 🚩 [Roadmap](https://roadmap.sh)
+## 🚩 **[ROADMAP](https://roadmap.sh)**
 
 ![Frontend roadmap](./Road%20map/frontend_roadmap_2022.png)
 
-## 📚 Table of contents
+## 📚 **[TABLE OF CONTENTS]()**
 
 ### **Responsive Web Design**
 
@@ -776,17 +773,52 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 ---
 
-## Contributing
+## 🎨 **[CONTRIBUTING](CONTRIBUTING.md)**
+
+* Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+* ***1.*** ***⭐ Star*** ***this*** ***repository*** ***if*** ***you*** ***found*** ***it*** ***useful.***
+
+![Star](/public/contribution/1.png)
+
+* ***2.*** ***📥 Click*** ***on*** ***the*** ***fork*** ***button*** ***on*** ***the*** ***top*** ***right*** ***corner*** ***of*** ***this*** ***page.***
+
+![Fork](/public/contribution/2.png)
+
+* ***3.*** ***📝 Edit*** ***the*** ***files*** ***you*** ***want*** ***to*** ***improve.***
+
+* ***4.*** ***🔗 Click*** ***on*** ***the*** ***"Create a pull request"*** ***button.***
+
+![Pull Request](/public/contribution/4.png)
+
+* ***5.*** ***📧 Wait*** ***for*** ***the*** ***pull*** ***request*** ***to*** ***be*** ***merged.***
+
+* ***6.*** ***🎉 Celebrate*** ***your*** ***success*** ***after*** ***your*** ***pull*** ***request*** ***is*** ***merged.***
+
+* If you want to add a new feature, please open an issue first to discuss if the feature is relevant for the majority of users.
+
+**[⬆ back to top](#-Introduction)**
 
 ---
 
-### Guide
+### 📋 **[GUIDE](CODE_OF_CONDUCT.md)**
+
+* [x] **[Contributing](contributing.md)**
+* [x] **[Code of Conduct](code-of-conduct.md)**
+* [x] **[License](license.md)**
+* [ ] **[Acknowledgments](acknowledgments.md)**
+* [ ] **[Translations](translations.md)**
+* [ ] **[Sponsors](sponsors.md)**
+* [ ] **[Supporters](supporters.md)**
+* [ ] **[FAQ](faq.md)**
+
+**[⬆ back to top](#-Introduction)**
 
 ---
 
-## 🔔 Stay in touch
+## 🔔 **[STAY IN TOUCH](https://linkedin.com/in/thuongtruong1009)**
 
--   Get idea inspiration: [bee-music](https://dribbble.com/shots/16618273-Bee-Music-Music-Media-Player-Dashboard?fbclid=IwAR35hkSSs2dB2Ek66GAX-yPDfx3JYxxJgeQdwweuEiEtne02IUYk13kxDnk)
+-   Relaxing after stress with: [bee-music](https://github.com/thuongtruong1009/bee-music)
 -   Trading and shopping your style with [e-shopee](https://github.com/thuongtruong1009/e-shopee)
 -   Enhance front-end skills through [twitter-meta](https://github.com/thuongtruong1009/twitter-meta)
 -   Generate your GitHub informations by [gitbox](https://github.com/thuongtruong1009/gitbox)
@@ -798,7 +830,9 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 -   Make flip card game at [flip-card](https://github.com/thuongtruong1009/flip-cards)
 -   Learn computer architecture at [computer-architecture](https://github.com/thuongtruong1009/computer-architecture)
 
-## 🤝 [Support](https://www.paypal.me/thuongtruong1009)
+**[⬆ back to top](#-Introduction)**
+
+## 🤝 **[SUPPORT](https://www.paypal.me/thuongtruong1009)**
 
 > We are looking for sponsors to join us to have better community reach and impact.
 
@@ -813,7 +847,11 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 <img height='25' style='border:0px;height:28px;color:blue' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-## 📰 [License](LICENSE)
+**[⬆ back to top](#-Introduction)**
+
+---
+
+## 📰 **[LICENSE](LICENSE)**
 
 -   ##### This project is distributed under the [MIT License](LICENSE).
 -   ##### Copyright of [@thuongtruong1009](https://github.com/thuongtruong1009), 2022-PRESENT.
