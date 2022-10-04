@@ -787,9 +787,12 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 * ***3.*** ***📝 Edit*** ***the*** ***files*** ***you*** ***want*** ***to*** ***improve.***
 
+![Compare a Pull-Request](/public/contribution/3a.png)
+![Create a Pull-Request](/public/contribution/3b.png)
+
 * ***4.*** ***🔗 Click*** ***on*** ***the*** ***"Create a pull request"*** ***button.***
 
-![Pull Request](/public/contribution/4.png)
+![Public a Pull-Request](/public/contribution/4.png)
 
 * ***5.*** ***📧 Wait*** ***for*** ***the*** ***pull*** ***request*** ***to*** ***be*** ***merged.***
 
