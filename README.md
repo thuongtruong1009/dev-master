@@ -853,6 +853,11 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 **[⬆ back to top](#-Introduction)**
 
 ---
+## Thanks to all Contributors <a name = "contributors"></a>
+
+<a href="https://github.com/thuongtruong1009/frontend-master/graphs/contributors"> 
+<img src="https://contrib.rocks/image?repo=thuongtruong1009/frontend-master" /> 
+</a>
 
 ## 📰 **[LICENSE](LICENSE)**
 
