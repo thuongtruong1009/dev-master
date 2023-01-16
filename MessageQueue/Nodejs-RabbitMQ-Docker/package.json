@@ -5,7 +5,7 @@
     "license": "MIT",
     "scripts": {
         "dev": "nodemon src/index.ts",
-        "start": "node dist/index.js",
+        "start:consumer": "node dist/src/consumer.js",
         "build": "tsc -w"
     },
     "dependencies": {

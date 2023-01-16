@@ -812,6 +812,22 @@ Visualize and generate automatically our social meta tags with [Meta Tags](https
 
 ---
 
+## Fullstacks roadmap
+
+-   Life cycle: Request/ Application/ Project
+-   Git follow: production/ Staging/ Development
+-   Structure code: convention / (sona quebe | sona lint) / technology
+-   Setup server & environment: setup iis / vpn / database
+-   Review: DRY (don't repeat your self)
+-   Deployment: IIS / Docker / Cloud
+-   Load balancing: nginx / haproxy
+-   Monitoring: healthcheck
+-   Message queue: RabbitMQ
+-   Caching: Redis
+-   Server
+-   Cloud: Azure devops
+-   Stateless && statefull: SOLID / CORS / CQRS ( command query responsibility segregation | Hangfire) / SMTP / HTTP
+
 ### 📋 **[GUIDE](CODE_OF_CONDUCT.md)**
 
 -   [x] **[Contributing](contributing.md)**

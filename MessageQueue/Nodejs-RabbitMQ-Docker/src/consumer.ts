@@ -1,6 +1,7 @@
 import amqplib from 'amqplib';
 
-const amqpUrl = process.env.AMQP_URL || 'amqp://localhost:5672';
+// const amqpUrl = process.env.AMQP_URL || 'amqp://localhost:5672';
+const amqpUrl = 'amqp://localhost:5672';
 
 async function processMessage(msg: any) {
     console.log('Processing message', msg.content.toString());
