@@ -1,6 +1,6 @@
 <div align="center">
-    <h1>💎 Frontend master</h1>
-    <em>Development frontend skills by your thinking</em><br/><br/>
+    <h1>💎 Fullstack master</h1>
+    <em>Development fullstack skills by your thinking</em><br/><br/>
 </div>
 
 <p align="center">
