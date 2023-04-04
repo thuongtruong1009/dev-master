@@ -13,7 +13,7 @@ const (
 
 // custom iota
 const(
-  _ = 1 << (10 * iota)
+  _ = 1 << (10 * iota)  // _ignore the first value don't want use
   KB
   MB
   GB

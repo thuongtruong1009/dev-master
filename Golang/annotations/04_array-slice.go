@@ -29,7 +29,7 @@ func main(){
   fmt.Println(array4)
 
   // slice
-  slice := [] int {1, 2, 3, 4, 5}
+  slice := []int {1, 2, 3, 4, 5}
   slice1 := slice[1:3]
   slice2 := slice[:4]
   slice3 := slice[2:]
@@ -38,15 +38,23 @@ func main(){
   fmt.Println(slice3)
 
   // declare when know length
-  slice4 := make([] int, 5)
+  slice4 := make([]int, 5)
   fmt.Println(slice4)
-  slice5 := make([] int, 5, 10)
+  slice5 := make([]int, 5, 10)
   fmt.Println(len(slice5), cap(slice5))
 
   // append
-  slice6 := [] int {1, 2, 3, 4, 5}
+  slice6 := []int {1, 2, 3, 4, 5}
   slice6 = append(slice6, 6, 7, 8)
   fmt.Println(slice6)
+
+  // v1.20
+// Copy slice to array
+// s := []string{"a", "b", "c"}
+// a := [3]string(s)
+// s[0] = "d"
+// a[1] = "e"
+// fmt.Println(s, a)
 }
 
 
