@@ -1,0 +1,40 @@
+version: '3.2'
+services:
+    rabbitmq:
+        container_name: rabbitmq
+        image: rabbitmq:3.8-management-alpine
+        ports:
+            - '5672:5672'
+            - '15672:15672'
+        volumes:
+            - ~/.docker/rabbitmq/data:/var/lib/rabbitmq/
+            - ~/.docker/rabbitmq/log:/var/log/rabbitmq
+        networks:
+            - rabbitmq_network
+        healthcheck:
+            test: ['CMD', 'curl', '-f', 'http://127.0.0.1:5672']
+            interval: 30s
+            timeout: 10s
+            retries: 5
+
+    consumer:
+        container_name: consumer
+        build:
+            context: ./
+            dockerfile: Dockerfile
+            target: development
+        volumes:
+            - .:/app
+        depends_on:
+            - rabbitmq
+        command: sh -c '/bin/wait-for-it.sh rabbitmq:5672 --timeout=30 -- yarn start:consumer'
+        environment:
+            NODE_ENV: production
+            AMQP_URL: amqp://guest:guest@rabbitmq:5672
+        networks:
+            - rabbitmq_network
+
+networks:
+    rabbitmq_network:
+        driver: bridge
+# docker-compose exec consumer /bin/bash -c 'for ((i=1;i<=15;i++)); do node publisher.js; done'
