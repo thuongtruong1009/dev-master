@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+  redis-master:
+    image: 'bitnami/redis:latest'
+    ports:
+      - '6379'
+    environment:
+      - REDIS_REPLICATION_MODE=master
+      - REDIS_PASSWORD=my_master_password
+    volumes:
+      - '/path/to/redis-persistence:/bitnami'
+
+  redis-replica:
+    image: 'bitnami/redis:latest'
+    ports:
+      - '6379'
+    depends_on:
+      - redis-master
+    environment:
+      - REDIS_REPLICATION_MODE=slave
+      - REDIS_MASTER_HOST=redis-master
+      - REDIS_MASTER_PORT_NUMBER=6379
+      - REDIS_MASTER_PASSWORD=my_master_password
+      - REDIS_PASSWORD=my_replica_password
