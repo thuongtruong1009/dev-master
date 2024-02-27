@@ -1,4 +1,0 @@
-run: go app.go
-build: go build -o app
-
-https://gobyexample.com/variables
